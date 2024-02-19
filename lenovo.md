@@ -12,4 +12,7 @@ The mouse is supported on the following operating systems:
 * Microsoft Windows 8 (32-bit or 64-bit)
 * Microsoft Windows 8.1 (32-bit or 64-bit)
 * Microsoft Windows 10 (32-bit or 64-bit)
-  
+## Table of contents:
+* Product description
+* Installing the batteries
+* Installing the mouse  
