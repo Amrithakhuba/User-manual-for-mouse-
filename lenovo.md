@@ -17,14 +17,5 @@ The mouse is supported on the following operating systems:
 * Installing the batteries
 * Installing the mouse  
 -----------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
 ## Product description:
+The following image shows the front view and rear-view image of the Bluetooth Wireless Mouse: 
