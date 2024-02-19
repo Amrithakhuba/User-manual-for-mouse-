@@ -15,9 +15,10 @@ The mouse is supported on the following operating systems:
 
   
 ## Table of contents:
-* Product description
-* Installing the batteries
-* Installing the mouse  
+1. Product description
+2. Installing the batteries
+3. Installing the mouse  
+
 -----------------------------------------------------------------------------
 
 
