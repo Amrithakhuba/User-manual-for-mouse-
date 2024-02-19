@@ -26,7 +26,7 @@ The mouse is supported on the following operating systems:
 The following image shows the front view and rear-view image of the Bluetooth Wireless Mouse: 
 
 #### 'Front view of the wireless mouse':
-' < Front view of the wireless mouse> '
+`< Front view of the wireless mouse> `
 #### Rear-view of the wireless mouse:
 
 ### Installing the batteries: 
