@@ -31,6 +31,10 @@ The following image shows the front view and rear-view image of the Bluetooth Wi
 
 
 
+
+
+
+
 #### Rear-view of the wireless mouse:
 
 ![3](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/abe5ebea-c070-4e5f-aeb8-42ac7c585a6c)
@@ -49,4 +53,4 @@ The following image shows the front view and rear-view image of the Bluetooth Wi
 
 ### 3.Installing the mouse:
 * Connect the USB receiver to the laptop USB port (provided on the side or the rear of the laptop)
-* scroll to check the mouse connection 
+* scroll to check the mouse connection
