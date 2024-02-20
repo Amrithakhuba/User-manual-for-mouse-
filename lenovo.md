@@ -28,16 +28,16 @@ The following image shows the front view and rear-view image of the Bluetooth Wi
 
 #### Front view of the wireless mouse:
 
-![image](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/ffa73ec0-6203-4ecb-a91e-bf9f84cdc9d1)
+![1](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/c26b5891-f498-4dba-8b11-b5655323a602)
 
 
 #### Rear-view of the wireless mouse:
 
-![image](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/076314e6-be62-41cc-b81e-4d4b2803a3f7)
+![3](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/abe5ebea-c070-4e5f-aeb8-42ac7c585a6c)
 
 
+![2](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/569f7476-5ef2-4077-b3ea-0b65749bc57a)
 
-![image](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/0a46780a-8d87-4ff2-acc4-411b33d9e26c)
 
 
 ### 2.Installing the batteries: 
