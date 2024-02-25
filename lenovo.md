@@ -28,7 +28,8 @@ The following image shows the front view and rear-view image of the Bluetooth Wi
 
 #### Front view of the wireless mouse:
 
-![1](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/ad059927-9098-4311-8cf8-51d116c99dc0)
+
+![image](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/ea659801-23a7-4220-b8f1-2777c9822b4a)
 
 
 
