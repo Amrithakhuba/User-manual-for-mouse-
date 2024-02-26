@@ -40,10 +40,9 @@ The following image shows the front view and rear-view image of the Bluetooth Wi
 
 #### Rear-view of the wireless mouse:
 
-![image](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/a48c93b3-d468-4450-85b6-f8020ac03c42)
+![image](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/00558e11-4a32-4171-88b7-240c4f4bec33)
 
-![image](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/36b4a4d9-c739-4b78-8ad9-238202c25136)
-
+![image](https://github.com/Amrithakhuba/User-manual-for-mouse-/assets/157877353/8c21ad8d-56b4-4797-8b6e-c6fa18388419)
 
 
 
